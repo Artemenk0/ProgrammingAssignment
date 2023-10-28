@@ -1,0 +1,15 @@
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.exe
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.deps.json
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.runtimeconfig.json
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.dll
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\net6.0\ProgrammingAssignment1.pdb
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.csproj.AssemblyReference.cache
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfoInputs.cache
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.AssemblyInfo.cs
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.dll
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\refint\ProgrammingAssignment1.dll
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.pdb
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ProgrammingAssignment1.genruntimeconfig.cache
+D:\EU\Coursera\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\net6.0\ref\ProgrammingAssignment1.dll
